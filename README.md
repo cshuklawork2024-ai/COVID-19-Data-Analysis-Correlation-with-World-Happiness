@@ -117,7 +117,7 @@ While the World Happiness metrics showed little direct correlation with infectio
 
 ##  Author
 
-** Chinmay Shukla**  
+** Chinmay Kumar**  
 B.Tech Student | Data Analyst | Web & UI/UX Designer  
 Passionate about transforming data into meaningful insights  
 
