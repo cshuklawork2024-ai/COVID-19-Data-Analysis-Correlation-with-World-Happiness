@@ -1,4 +1,4 @@
-# 🧠 COVID-19 Data Analysis & World Happiness Correlation
+#  COVID-19 Data Analysis & World Happiness Correlation
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1.6.2-blue?logo=pandas&logoColor=white)
@@ -11,14 +11,14 @@ The goal is to uncover patterns in infection rates across countries and determin
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 During the COVID-19 pandemic, countries showed varied infection patterns due to differences in healthcare systems, preparedness, and socio-economic conditions.  
 This project performs a **data-driven analysis** to understand these variations and correlate them with global happiness indicators.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze the progression and spread of COVID-19 globally.
 - Compute and compare **maximum infection rates** across countries.
@@ -27,7 +27,7 @@ This project performs a **data-driven analysis** to understand these variations 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages & Tools:**  
 - Python  
@@ -41,7 +41,7 @@ This project performs a **data-driven analysis** to understand these variations 
 
 ---
 
-## 🧩 Datasets Used
+##  Datasets Used
 
 1. **COVID-19 Confirmed Cases Dataset**  
    - Contains date-wise cumulative confirmed cases for each country.  
@@ -53,7 +53,7 @@ This project performs a **data-driven analysis** to understand these variations 
 
 ---
 
-## ⚙️ Approach
+##  Approach
 
 ### 1. Data Cleaning & Preparation
 - Loaded both datasets and handled missing or irrelevant columns.  
@@ -80,7 +80,7 @@ This project performs a **data-driven analysis** to understand these variations 
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - China’s infection rate curve flattened earlier than most countries.  
 - The U.S. and Spain recorded the highest peak infection rates.  
@@ -89,14 +89,14 @@ This project performs a **data-driven analysis** to understand these variations 
 
 ---
 
-## 🧠 Conclusion
+##  Conclusion
 
 This analysis demonstrates how **data integration from multiple domains** (health + socio-economic) can provide valuable perspectives.  
 While the World Happiness metrics showed little direct correlation with infection rates, they revealed broader insights into societal resilience during crises.
 
 ---
 
-## 🧩 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
@@ -106,7 +106,7 @@ While the World Happiness metrics showed little direct correlation with infectio
 
 ---
 
-## 📈 Visual Outputs (Examples)
+##  Visual Outputs (Examples)
 
 - Line plots of cumulative COVID-19 cases by country  
 - Daily infection rate trends  
@@ -115,15 +115,15 @@ While the World Happiness metrics showed little direct correlation with infectio
 
 ---
 
-## 📜 Author
+##  Author
 
-**👨‍💻 Chinmay Shukla**  
+** Chinmay Shukla**  
 B.Tech Student | Data Analyst | Web & UI/UX Designer  
-📍 Passionate about transforming data into meaningful insights  
+Passionate about transforming data into meaningful insights  
 
 ---
 
-## 🔗 Repository Structure
+##  Repository Structure
 
 COVID19-Happiness-Analysis/
 │
